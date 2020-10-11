@@ -24,3 +24,4 @@ Step #2) Cut and mince three cloves of garlic. Heat the olive oil and butter on 
 
 Step 3) After your pasta is done, add it to the garlic butter sauce. After that, add in black pepper, salt, and freshly squeezed lemon juice and these ingrediets will help enhance the flavor of the dish. To top it all of, add in cilantro and mix the pasta well with the other unique and various ingredients as the pan is on low heat. Serve the hot pasta in a rounded plate and coat it with parmesan cheese at the end. And there you go, now you are able to enjoy and have a delicious meal and it will be way more worth it as it will be fresh and tastier compared to your restaurant style pasta.
 
+![PASTA IMAGE1](https://user-images.githubusercontent.com/72218836/95670763-51069680-0b44-11eb-9402-23ed3644d7b0.jpg)
