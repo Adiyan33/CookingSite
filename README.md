@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# _Garlic Butter Parmesan Pasta_
+## Ingrediets you are required
+-Linguine Pasta
 
-You can use the [editor on GitHub](https://github.com/Adiyan33/CookingSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+-Chilli Flakes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Butter
 
-### Markdown
+-Olive Oil
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Lemon Juice
 
-```markdown
-Syntax highlighted code block
+-Salt and Black Pepper
 
-# Header 1
-## Header 2
-### Header 3
+-Cilantro
 
-- Bulleted
-- List
+-Parmesan Cheese
 
-1. Numbered
-2. List
+-Three Cloves of Garlic
+### Steps on how the make the dish
+Step #1) Boil and cook your pasta in a pot with boiling salted water. Cook the pasta according to pasta's package instructions
 
-**Bold** and _Italic_ and `Code` text
+Step #2) Cut and mince three cloves of garlic. Heat the olive oil and butter on a seperate pan on medium heat and heat them until the butter is melted. After the butter is melted, add the minced,chopped garlic and cook it in the olive oil and butter mixture for 6-8 minutes or until the garlic is softened and has a golden-brown color. After the garlic is cooked, add in your chilli flakes and cook it for an additional 1 minute.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adiyan33/CookingSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Step 3) After your pasta is done, add it to the garlic butter sauce. After that, add in black pepper, salt, and freshly squeezed lemon juice and these ingrediets will help enhance the flavor of the dish. To top it all of, add in cilantro and mix the pasta well with the other unique and various ingredients as the pan is on low heat. Serve the hot pasta in a rounded plate and coat it with parmesan cheese at the end. And there you go, now you are able to enjoy and have a delicious meal and it will be way more worth it as it will be fresh and tastier compared to your restaurant style pasta.
