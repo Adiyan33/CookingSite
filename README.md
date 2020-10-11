@@ -28,3 +28,4 @@ Step 3) After your pasta is done, add it to the garlic butter sauce. After that,
 
 ![PASTA IMAGE1](https://user-images.githubusercontent.com/72218836/95671086-a7290900-0b47-11eb-9fe2-f28a2f10c28b.jpg)
 
+![PASTA IMAGE2](https://user-images.githubusercontent.com/72218836/95671106-ddff1f00-0b47-11eb-89c3-0ae6809d9ebf.jpg)
